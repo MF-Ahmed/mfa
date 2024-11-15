@@ -4,10 +4,11 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2023-10-01
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+
+#slidesurl: 'https://mf-ahmed.github.io/mfa/files/slides1.pdf'
+paperurl: 'https://mf-ahmed.github.io/mfa/files/2212.11654v4.pdf'
 citation: 'Ahmed, M.F.; Masood, K.; Fremont, V.; Fantoni, I (2023). &quot;Active SLAM: A Review on Last Decade.&quot; <i>Sensors</i>. 23,8097.'
 ---
 
