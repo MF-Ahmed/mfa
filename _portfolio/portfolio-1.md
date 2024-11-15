@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='https://mf-ahmed.github.io/mfa/portfolio/images/Industrial Control and Monitoring System.jpg'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='https://mf-ahmed.github.io/mfa/images/Industrial Control and Monitoring System.jpg'>"
 collection: portfolio
 ---
 
