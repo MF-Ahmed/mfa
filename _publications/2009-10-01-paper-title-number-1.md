@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This article reviews a decade of Active Simultaneous Localization and Mapping (A-SLAM) research, focusing on trajectory planning, control strategies, and methods informed by Information Theory and Optimal Experimental Design. It analyzes A-SLAM approaches, configurations, and deployment scenarios while introducing a novel perspective on Active Collaborative SLAM (AC-SLAM). The study identifies research gaps, suggests future directions, and provides a concise resource for A-SLAM methodologies.'
 date: 2023-10-01
-venue: 'Journal 1'
+venue: 'Sensors'
 
 #slidesurl: 'https://mf-ahmed.github.io/mfa/files/slides1.pdf'
 paperurl: 'https://mf-ahmed.github.io/mfa/files/2212.11654v4.pdf'
