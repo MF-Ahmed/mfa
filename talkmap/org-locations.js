@@ -20,8 +20,13 @@ var addressPoints = [
     -118.2439408
   ],
   [
-    "Singapore",
+    "Singapore National University, Singapore",
     1.30148192, 
     103.780397
-  ]
+  ],
+  [
+    "Faculty of Applied Sciences of the University of West Bohemia, Pilsen, Czech Republic",
+    49.7267189,
+    13.35210922
+  ]   
 ];
