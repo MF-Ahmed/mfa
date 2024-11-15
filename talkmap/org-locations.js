@@ -20,7 +20,7 @@ var addressPoints = [
     -118.2439408
   ],
   [
-    "SNU, Singapore",
+    "Singapore",
     1.30148192, 
     103.780397
   ]
