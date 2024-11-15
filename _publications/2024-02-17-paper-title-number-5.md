@@ -1,8 +1,8 @@
 ---
-title: "Paper Title Number 3"
+title: "Paper Title Number 5"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-3
+permalink: /publication/2024-02-17-paper-title-number-5
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'
