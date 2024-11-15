@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-3
 excerpt: 'This article introduces a utility function for Active SLAM (A-SLAM) that combines map entropy with D-Optimality criteria to prioritize goal frontier selection. The function leverages occupancy grid maps, emphasizing unknown areas for maximum coverage while minimizing localization and mapping uncertainties. Efficiency is assessed through graph connectivity metrics and map efficiency indices in exploration tasks. Simulations and experiments on public datasets demonstrate a 32% improvement in area coverage compared to similar methods.'
-date: 2024-02-17
+date: 2023-10-17
 venue: 'IEEE SOLI 2023, Singapore'
 paperurl: 'https://mf-ahmed.github.io/mfa/files/2309.16490v2.pdf'
 citation: 'M. F. Ahmed, V. Frémont and I. Fantoni. (2023). &quot;Active SLAM Utility Function Exploiting Path Entropy.&quot; <i>IEEE SOLI</i>. PP. 1-7., doi: 10.1109/SOLI60636.2023.10425063'
