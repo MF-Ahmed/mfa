@@ -22,13 +22,13 @@ repository               : "MF-Ahmed/mfa"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Muhammad Farhan Ahmed"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Nantes, France"
+  employer         : "Ecole Centrale de Nantes, France"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "itsfarhan@outlook.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
