@@ -3,7 +3,7 @@ title: "Active SLAM: A Review on Last Decade"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This article reviews a decade of Active Simultaneous Localization and Mapping (A-SLAM) research, focusing on trajectory planning, control strategies, and methods informed by Information Theory and Optimal Experimental Design. It analyzes A-SLAM approaches, configurations, and deployment scenarios while introducing a novel perspective on Active Collaborative SLAM (AC-SLAM). The study identifies research gaps, suggests future directions, and provides a concise resource for A-SLAM methodologies.'
 date: 2023-10-01
 venue: 'Journal 1'
 

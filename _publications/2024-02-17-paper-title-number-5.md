@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 5"
+title: "Active Collaborative Visual SLAM exploiting ORB Features"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-5
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'
-paperurl: 'https://mf-ahmed.github.io/mfa/files/paper3.pdf'
+paperurl: 'https://mf-ahmed.github.io/mfa/files/2407.05453v2.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
