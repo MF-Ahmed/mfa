@@ -31,34 +31,32 @@ var addressPoints = [
   ]   
   ,
   [
-    "Moliets-et-Maa, France"  
+    "Moliets-et-Maa, France",  
     43.844555, 
     -1.379172
   ]
   ,
   [
-  "LS2N, ECN, Nantes, France"  
+  "LS2N, ECN, Nantes, France",  
     47.25039923328782,
    -1.5473819938138698
   ]
   ,
   [
-  "Vannes, France"  
+  "Vannes, France", 
   47.66207800295914, 
   -2.7612831140017207
   ]
   ,
   [
-    "Paris, France"  
+    "Paris, France",  
    48.85254777017888,
     2.3537791814667366
   ]
   ,
   [
-    "Dubai, UAE"  
+    "Dubai, UAE", 
     25.23253949902462, 
     55.3240151614442
-  ]
-
-  
+  ]  
 ];
