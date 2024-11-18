@@ -19,7 +19,7 @@ In this article we present a utility function for Active SLAM (A-SLAM) which uti
  experimental results against similar approaches we achieve an average of 32% more coverage using publicly available data sets.
 
 <iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/1PClaaDCc88?autoplay=1" 
+    src="https://www.youtube.com/embed/XjSBctHOMLY?autoplay=1" 
     title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
