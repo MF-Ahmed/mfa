@@ -56,7 +56,5 @@ var addressPoints = [
     "Amsterdam, Netherlands", 
     52.370823902671845, 
     4.895440175910964
-  ]
-
-   
+  ]   
 ];
