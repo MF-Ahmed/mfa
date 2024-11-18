@@ -39,7 +39,7 @@ var addressPoints = [
     25.23253, 
     55.32401
   ]  
-
+  ,
   [
     "Munich, Germany", 
     48.13841454177316, 
