@@ -14,7 +14,7 @@ citation: 'M. F. Ahmed, M. Maragliano, V. Frémont, C. T. Recchiuto and A. Sgorb
 In autonomous robotics, a critical challenge lies in developing robust solutions for Active Collaborative SLAM, wherein multiple robots collaboratively explore and map an unknown environment while intelligently coordinating their movements and sensor data acquisitions. In this article, we present an efficient centralized frontier sharing approach that maximizes exploration by taking into account information gain in the merged map, distance, and reward computation among frontier candidates and encourages the spread of agents into the environment. Eventually, our method efficiently spreads the robots for maximum exploration while keeping SLAM uncertainty low. Additionally, we also present two coordination approaches, synchronous and asynchronous to prioritize robot goal assignments by the central server. The proposed method is implemented in ROS and evaluated through simulation and experiments on publicly available datasets and similar methods, rendering promising results.
 
 <iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/1PClaaDCc88?autoplay=1" 
+    src="https://www.youtube.com/embed/MsZqoaEA0gY?autoplay=1" 
     title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
