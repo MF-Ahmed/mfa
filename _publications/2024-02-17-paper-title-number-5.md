@@ -19,7 +19,7 @@ SLAM method using aerial and ground robots for environment exploration and mappi
  and similar methods, achieving an accumulative average of 59% of increase in area coverage.
 
 <iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/6j3VBdnVcO8&t?autoplay=1" 
+    src="https://www.youtube.com/embed/6j3VBdnVcO8?autoplay=1" 
     title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
