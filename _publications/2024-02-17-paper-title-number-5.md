@@ -7,6 +7,7 @@ excerpt: 'This article addresses the challenge of Active Collaborative SLAM (AC-
 date: 2024-02-17
 venue: 'IEEE ICARCV 2024, Dubai'
 paperurl: 'https://mf-ahmed.github.io/mfa/files/2407.05453v2.pdf'
+slidesurl: 'https://mf-ahmed.github.io/mfa/files/ICARCV2024.pdf'
 citation: 'Muhammad Farhan Ahmed and Vincent Frémont and Isabelle Fantoni (2024). &quot;Active Collaborative Visual SLAM exploiting ORB Features.&quot; <i>ICARCV2024</i>. 1(3).'
 ---
 

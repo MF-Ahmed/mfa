@@ -7,6 +7,7 @@ excerpt: 'This article tackles the challenge of Active Collaborative SLAM, where
 date: 2024-10-17
 venue: 'IEEE MFI 2024, Pilsen'
 paperurl: 'https://mf-ahmed.github.io/mfa/files/2310.01967v5.pdf'
+slidesurl: 'https://mf-ahmed.github.io/mfa/files/IEEE_MFI_2024.pdf'
 citation: 'M. F. Ahmed, M. Maragliano, V. Frémont, C. T. Recchiuto and A. Sgorbissa. (2024). &quot;Efficient Frontier Management for Collaborative Active SLAM.&quot; <i>IEEE MFI 2024</i>. pp. 1-7, doi: 10.1109/MFI62651.2024.10705778.'
 ---
 
