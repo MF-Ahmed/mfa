@@ -17,3 +17,11 @@ In this article we present a utility function for Active SLAM (A-SLAM) which uti
  area coverage while maintaining a low localization and mapping uncertainties. We quantify the efficiency of our method using
  various graph connectivity matrices and map efficiency indexes for an environment exploration task. Using simulation and
  experimental results against similar approaches we achieve an average of 32% more coverage using publicly available data sets.
+
+<iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/1PClaaDCc88?autoplay=1" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+</iframe>
