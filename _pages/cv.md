@@ -24,6 +24,22 @@ Work experience
   * **Implementation** of QMS and 5S (ISO-9001) to improve workplace organization, efficiency, and safety. Conducted regular 5S audits and training sessions to ensure adherence to standards. 
 
   * **Development** of project plans, timelines, and efficient resource allocation. Monitoring of project progress, ensuring milestones, and adjusting plans as necessary. 
+* December 2012 -- November 2019, Islamabad, Pakistan: **Senior Engineer (Embedded Control System Design)**
+  * Public Sector Employee
+  * **Designed and developed**. Microchip PIC32 series microcontroller based embedded systems for industrial process control and monitoring of pneumatic valves, temperature  and pressure sensors.
+
+  * **Developed** control system testing strategies for value interlock testing and verification aligned with control philosophy. 
+  * **Supervision and training** of control systems operator personnel.
+  * **Monitored and diagnosed** control system issues, implemented solutions to minimize downtime, and conducted rigorous testing and validation to ensure compliance with industry standards.
+  * **Designed and developed** an inverter power distribution system to ensure efficient load switching for HVAC, CNC, and welding machines.
+ * **Designed** a 30-channel HVAC chiller and pump remote status monitoring and logging system for efficient plant operation.
+ * **Designed and implemented** a remote diesel-level monitoring and logging system for four 1000$L$ fuel storage tanks used for backup generators.
+* July 2007 -- November 2012, Islamabad, Pakistan: **Assistant Engineer (Maintenance)**
+* Public Sector Employee
+  **Develop and implement** preventive maintenance schedules of plant process control systems and conduct regular inspections.
+  **Ensure** all maintenance activities comply with safety standards and regulations. Conduct safety inspections and risk assessments.
+  **Maintain** detailed records of all maintenance activities, including inspections, repairs, and replacements. Keep technical documentation, such as equipment manuals and maintenance procedures, up to date.
+  **Identify** opportunities for improving maintenance processes and implement best practices to enhance efficiency.
 
 * Fall 2015: Research Assistant
   * Github University
