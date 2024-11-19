@@ -17,14 +17,14 @@ Education
 
 Work experience
 ======
-* December 2019 -- July 2021, Islamabad, Pakistan: **Principal Engineer (Plant automation group)**
+* **Principal Engineer (Plant automation group)**: December 2019 -- July 2021, Islamabad, Pakistan 
   * Public Sector Employee
   * **Team leader**. Supervised and guided a team of 2 automation engineers and 4 technicians. Mentored team members, providing training and support to enhance their technical and professional skills.
 
   * **Implementation** of QMS and 5S (ISO-9001) to improve workplace organization, efficiency, and safety. Conducted regular 5S audits and training sessions to ensure adherence to standards. 
 
   * **Development** of project plans, timelines, and efficient resource allocation. Monitoring of project progress, ensuring milestones, and adjusting plans as necessary. 
-* December 2012 -- November 2019, Islamabad, Pakistan: **Senior Engineer (Embedded Control System Design)**
+* **Senior Engineer (Embedded Control System Design)**: December 2012 -- November 2019, Islamabad, Pakistan 
   * Public Sector Employee
   * **Designed and developed**. Microchip PIC32 series microcontroller based embedded systems for industrial process control and monitoring of pneumatic valves, temperature  and pressure sensors.
 
@@ -34,22 +34,12 @@ Work experience
   * **Designed and developed** an inverter power distribution system to ensure efficient load switching for HVAC, CNC, and welding machines.
   * **Designed** a 30-channel HVAC chiller and pump remote status monitoring and logging system for efficient plant operation.
   * **Designed and implemented** a remote diesel-level monitoring and logging system for four 1000$L$ fuel storage tanks used for backup generators.
-* July 2007 -- November 2012, Islamabad, Pakistan: **Assistant Engineer (Maintenance)**
-* Public Sector Employee
+* **Assistant Engineer (Maintenance)**: July 2007 -- November 2012, Islamabad, Pakistan 
+  * Public Sector Employee
   * **Develop and implement** preventive maintenance schedules of plant process control systems and conduct regular inspections.
   * **Ensure** all maintenance activities comply with safety standards and regulations. Conduct safety inspections and risk assessments.
   * **Maintain** detailed records of all maintenance activities, including inspections, repairs, and replacements. Keep technical documentation, such as equipment manuals and maintenance procedures, up to date.
   * **Identify** opportunities for improving maintenance processes and implement best practices to enhance efficiency.
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
