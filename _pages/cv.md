@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Robotics, Ecole Centrale de Nantes, France, 2024 (expected)
+* M.S. in Advance Robotics, Ecole Centrale de Nantes, France & University of Genoa, Italy 2014-2014
+* B.E. Electronics Engineering, Mehran University, Pakistan, 2006
 
 Work experience
 ======
