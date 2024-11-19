@@ -17,13 +17,13 @@ Education
 
 Work experience
 ======
-* December 2019 -- July 2021, Islamabad, Pakistan: Principal Engineer (Plant automation group)
+* December 2019 -- July 2021, Islamabad, Pakistan: **Principal Engineer (Plant automation group)**
   * Public Sector Employee
-  * Team leader. Supervised and guided a team of 2 automation engineers and 4 technicians. Mentored team members, providing training and support to enhance their technical and professional skills.
+  * **Team leader**. Supervised and guided a team of 2 automation engineers and 4 technicians. Mentored team members, providing training and support to enhance their technical and professional skills.
 
- * Implementation of QMS and 5S (ISO-9001) to improve workplace organization, efficiency, and safety. Conducted regular 5S audits and training sessions to ensure adherence to standards. 
+  * **Implementation** of QMS and 5S (ISO-9001) to improve workplace organization, efficiency, and safety. Conducted regular 5S audits and training sessions to ensure adherence to standards. 
 
- * Development of project plans, timelines, and efficient resource allocation. Monitoring of project progress, ensuring milestones, and adjusting plans as necessary. 
+  * **Development** of project plans, timelines, and efficient resource allocation. Monitoring of project progress, ensuring milestones, and adjusting plans as necessary. 
 
 * Fall 2015: Research Assistant
   * Github University
