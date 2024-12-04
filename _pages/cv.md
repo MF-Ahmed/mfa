@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Robotics, Ecole Centrale de Nantes, France, 2024 (expected)
+* Ph.D in Robotics, Ecole Centrale de Nantes, France, 2024 
 * M.S. in Advance Robotics, Ecole Centrale de Nantes, France & University of Genoa, Italy 2014-2015
 * B.E. Electronics Engineering, Mehran University, Pakistan, 2006
 
