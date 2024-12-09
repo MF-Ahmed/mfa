@@ -1,7 +1,7 @@
 ---
 title: "Master Thesis Supervision (M2)"
 collection: Supervision
-type: "supervision"
+type: "Supervision"
 permalink: /teaching/2015-spring-teaching-2
 venue: "Ecole Centrale de Nantes, Robotics"
 date: 2023-03-01
