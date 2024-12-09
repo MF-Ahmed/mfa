@@ -44,18 +44,28 @@ Work experience
 Skills
 ======
 * Programming
-  * Python
-  * C++
-  * Embedded C/C++/Assembly
+  * Python, C++, Embedded C/C++/Assembly
   * ROS1/2
   * Matlab/Octave
   * PyQT5  
+* Robotics
+  * Mobile Robots
+  * Computer Vision
+  * Localization and Mapping
+  * Environment Exploration
+  * Path Planning
+* Embedded Systems
+  * PIC32/24, ATMega 2560
+  * Low Level Driver Programming C/C++
+  * SPI, I2C, USART, PWM
+  * Timers, Interrupts, ADC/DACs
+  * MPLab X, AVR Studio
+* Electronic Engineering
+  * Instrumentation
+  * Sensor Interfacing
+  * Maintenance
+  * Motor Control (DC Servo, Stepper)
 
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
