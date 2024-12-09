@@ -1,5 +1,5 @@
 ---
-title: "Master Thesis co-supervision (M2)"
+title: "Master Thesis Supervision (M2)"
 collection: Supervision
 type: "supervision"
 permalink: /teaching/2015-spring-teaching-2
