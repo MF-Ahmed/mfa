@@ -1,5 +1,5 @@
 ---
-title: "Master Project supervision (M1)"
+title: "Master Project Supervision (M1)"
 collection: Supervision
 type: "Supervision"
 permalink: /teaching/2015-spring-teaching-3

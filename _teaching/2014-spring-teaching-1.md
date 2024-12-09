@@ -1,5 +1,5 @@
 ---
-title: "Labs for AUVE course"
+title: "Labs for AUVE Course"
 collection: teaching
 type: "Master Lab"
 permalink: /teaching/2014-spring-teaching-1
