@@ -43,7 +43,14 @@ Work experience
   
 Skills
 ======
-* Skill 1
+* Programming
+  * Python
+  * C++
+  * Embedded C/C++/Assembly
+  * ROS1/2
+  * Matlab/Octave
+  * PyQT5  
+
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2

@@ -8,9 +8,8 @@ date: 2023-10-17
 venue: 'IEEE SOLI 2023, Singapore'
 paperurl: 'https://mf-ahmed.github.io/mfa/files/2309.16490v2.pdf'
 slidesurl: 'https://mf-ahmed.github.io/mfa/files/IEEE_SOLI_2023.pdf'
-citation: 'M. F. Ahmed, V. Frémont and I. Fantoni. (2023). &quot;Active SLAM Utility Function Exploiting Path Entropy.&quot; <i>IEEE SOLI</i>. PP. 1-7., doi: 10.1109/SOLI60636.2023.10425063'
+citation: 'M. F. Ahmed, V. Frémont and I. Fantoni. (2023). &quot;Active SLAM Utility Function Exploiting Path Entropy.&quot; <i>IEEE SOLI</i>. PP. 1-7., doi: 10.1109/SOLI60636.2023.10425063 (Best Student Paper Award)'
 ---
-
 
 In this article we present a utility function for Active SLAM (A-SLAM) which utilizes map entropy along
  with D-Optimality criterion metrices for weighting goal frontier candidates. We propose a utility function for frontier goal
