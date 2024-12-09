@@ -1,6 +1,6 @@
 ---
-title: "Master M2 Thesis co-supervision"
-collection: supervision
+title: "Master Thesis co-supervision (M2)"
+collection: Supervision
 type: "supervision"
 permalink: /teaching/2015-spring-teaching-2
 venue: "Ecole Centrale de Nantes, Robotics"
@@ -8,13 +8,7 @@ date: 2023-03-01
 location: "Nantes, France"
 ---
 
-This is a description of a teaching experience.
-
-Heading 1
+Synchronous and Asynchronous Coordination in Collaborative Active SLAM
 ======
 
-Heading 2
-======
-
-Heading 3
-======
+This thesis focuses on extending active perception from single-agent systems to multi-agent systems, enabling autonomous agents to collaboratively explore environments and combine their maps for consistent and accurate mapping.
