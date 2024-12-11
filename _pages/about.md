@@ -14,14 +14,17 @@ Welcome to my professional portfolio! I am **Muhammad Farhan Ahmed**, a robotics
 
 ## 🏆 **Professional Highlights**
 - **Ph.D. Researcher (2021–2024):**  
-  **multi-robot active SLAM** techniques, focusing on entropy-driven exploration for autonomous mapping systems.  
+  **Multi-robot active SLAM** techniques, focusing on entropy-driven exploration for autonomous mapping systems   
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>.  
 - **Principal Engineer (2019–2021):**  
   Managed automation projects from planning to execution. Streamlined workplace efficiency with **ISO-9001 QMS** and **5S methodologies** implementation.  
 - **Senior Engineer (2012–2019):**  
   Spearheaded the design of **embedded systems** for industrial process automation, including HVAC monitoring and fuel storage solutions.  
 - **Assistant Engineer (2011–2012):**  
   Developed preventive **maintenance schedules**, ensured **safety compliance**, and improved plant process **efficiency**. Maintained detailed records and updated **technical documentation**. 
-  
+
 ---
 
 ## 🔧 **Technical Expertise**
