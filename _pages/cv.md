@@ -7,7 +7,16 @@ redirect_from:
   - /resume
 ---
 
+
 {% include base_path %}
+{% capture written_label %}'None'{% endcapture %}
+
+If the embedded PDF below does not load, you can <u><a href="https://stuartgeiger.com/geiger-cv.pdf">download it here.</a></u>
+<br/>
+
+<embed src="https://stuartgeiger.com/geiger-cv.pdf" type="application/pdf" width="100%" />
+
+
 
 Education
 ======
@@ -19,27 +28,27 @@ Work experience
 ======
 * **Principal Engineer (Plant automation group)**: December 2019 -- July 2021, Islamabad, Pakistan 
   * Public Sector Employee
-  * **Team leader**. Supervised and guided a team of 2 automation engineers and 4 technicians. Mentored team members, providing training and support to enhance their technical and professional skills.
+  * **Team leader**. Supervised and guided a team of 2 automation engineers and 4 technicians. Mentored team members, providing training and support to enhance their technical and professional skills
 
-  * **Implementation** of QMS and 5S (ISO-9001) to improve workplace organization, efficiency, and safety. Conducted regular 5S audits and training sessions to ensure adherence to standards. 
+  * **Implementation** of QMS and 5S (ISO-9001) to improve workplace organization, efficiency, and safety. Conducted regular 5S audits and training sessions to ensure adherence to standards
 
-  * **Development** of project plans, timelines, and efficient resource allocation. Monitoring of project progress, ensuring milestones, and adjusting plans as necessary. 
+  * **Development** of project plans, timelines, and efficient resource allocation. Monitoring of project progress, ensuring milestones, and adjusting plans as necessary
 * **Senior Engineer (Embedded Control System Design)**: December 2012 -- November 2019, Islamabad, Pakistan 
   * Public Sector Employee
-  * **Designed and developed**. Microchip PIC32 series microcontroller based embedded systems for industrial process control and monitoring of pneumatic valves, temperature  and pressure sensors.
+  * **Designed and developed**. Microchip PIC32 series microcontroller based embedded systems for industrial process control and monitoring of pneumatic valves, temperature  and pressure sensors
 
   * **Developed** control system testing strategies for value interlock testing and verification aligned with control philosophy. 
-  * **Supervision and training** of control systems operator personnel.
-  * **Monitored and diagnosed** control system issues, implemented solutions to minimize downtime, and conducted rigorous testing and validation to ensure compliance with industry standards.
-  * **Designed and developed** an inverter power distribution system to ensure efficient load switching for HVAC, CNC, and welding machines.
-  * **Designed** a 30-channel HVAC chiller and pump remote status monitoring and logging system for efficient plant operation.
-  * **Designed and implemented** a remote diesel-level monitoring and logging system for four 1000$L$ fuel storage tanks used for backup generators.
+  * **Supervision and training** of control systems operator personnel
+  * **Monitored and diagnosed** control system issues, implemented solutions to minimize downtime, and conducted rigorous testing and validation to ensure compliance with industry standards
+  * **Designed and developed** an inverter power distribution system to ensure efficient load switching for HVAC, CNC, and welding machines
+  * **Designed** a 30-channel HVAC chiller and pump remote status monitoring and logging system for efficient plant operation
+  * **Designed and implemented** a remote diesel-level monitoring and logging system for four 1000$L$ fuel storage tanks used for backup generators
 * **Assistant Engineer (Maintenance)**: July 2007 -- November 2012, Islamabad, Pakistan 
   * Public Sector Employee
-  * **Develop and implement** preventive maintenance schedules of plant process control systems and conduct regular inspections.
-  * **Ensure** all maintenance activities comply with safety standards and regulations. Conduct safety inspections and risk assessments.
-  * **Maintain** detailed records of all maintenance activities, including inspections, repairs, and replacements. Keep technical documentation, such as equipment manuals and maintenance procedures, up to date.
-  * **Identify** opportunities for improving maintenance processes and implement best practices to enhance efficiency.
+  * **Develop and implement** preventive maintenance schedules of plant process control systems and conduct regular inspections
+  * **Ensure** all maintenance activities comply with safety standards and regulations. Conduct safety inspections and risk assessments
+  * **Maintain** detailed records of all maintenance activities, including inspections, repairs, and replacements. Keep technical documentation, such as equipment manuals and maintenance procedures, up to date
+  * **Identify** opportunities for improving maintenance processes and implement best practices to enhance efficiency
   
 Skills
 ======
@@ -87,12 +96,12 @@ Teaching
   
 Courses and Workshops
 ======
-* Basic Management Course at PIEAS, Islamabad, Pakistan 2017.
-* Attended “innorobo” robots workshop at Lyon, France 2015.
-* Course on“FPGA based Chip Designing Using Verilog HDL” 2012 from Skill Development Council Islamabad, Pakistan.
-* Workshop “Engineers as Managers” 2009 at CASE Islamabad, Pakistan.
-* Workshop “FPGA Chip Design” 2008 at NUST Rawalpindi, Pakistan.
-* Course on “Microcontroller (MCS-51 Family)” 2005. Karachi, Pakistan.
+* Basic Management Course at PIEAS, Islamabad, Pakistan 2017
+* Attended “innorobo” robots workshop at Lyon, France 2015
+* Course on“FPGA based Chip Designing Using Verilog HDL” 2012 from Skill Development Council Islamabad, Pakistan
+* Workshop “Engineers as Managers” 2009 at CASE Islamabad, Pakistan
+* Workshop “FPGA Chip Design” 2008 at NUST Rawalpindi, Pakistan
+* Course on “Microcontroller (MCS-51 Family)” 2005. Karachi, Pakistan
 
 
 Laungages
