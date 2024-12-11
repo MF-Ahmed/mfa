@@ -11,10 +11,10 @@ redirect_from:
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
 
-If the embedded PDF below does not load, you can <u><a href="https://mf-ahmed.github.io/mfa/files/AHMED_CV_English_latest.pdf">download it here.</a></u>
+You can <u><a href="https://mf-ahmed.github.io/mfa/files/AHMED_CV_English_latest.pdf">download it here.</a></u>
 <br/>
 
-#<embed src="https://mf-ahmed.github.io/mfa/files/AHMED_CV_English_latest.pdf" type="application/pdf" width="800px" #height="600px" />
+<!--  <embed src="https://mf-ahmed.github.io/mfa/files/AHMED_CV_English_latest.pdf" type="application/pdf" width="800px" #height="600px" /> -->
 
 
 Education
