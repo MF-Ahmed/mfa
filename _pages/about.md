@@ -21,10 +21,11 @@ Welcome to my professional portfolio! I am **Muhammad Farhan Ahmed**, a robotics
   Spearheaded the design of **embedded systems** for industrial process automation, including HVAC monitoring and fuel storage solutions.  
 - **Assistant Engineer (2011–2012):**  
   Developed preventive **maintenance schedules**, ensured **safety compliance**, and improved plant process **efficiency**. Maintained detailed records and updated **technical documentation**. 
+  
 ---
 
 ## 🔧 **Technical Expertise**
-- Robotics and **Active SLAM** algorithms.  
+- Robotics and **Multi-robot Active collaborative SLAM** algorithms.  
 - **Embedded system design** and microcontroller programming.  
 - **Industrial automation** for monitoring and control systems.  
 
@@ -38,7 +39,6 @@ Welcome to my professional portfolio! I am **Muhammad Farhan Ahmed**, a robotics
 ---
 
 ## 📜 **Certifications & Workshops**
-- **FPGA Design** and Verilog HDL.  
 - **Management & Leadership in Engineering**.  
 - Regular contributor to robotics seminars and industry conferences.  
 
