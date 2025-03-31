@@ -14,8 +14,10 @@ redirect_from:
 You can <u><a href="https://mf-ahmed.github.io/mfa/files/AHMED_CV_English_latest.pdf">download the PDF here (English).</a></u>
 <br/>
 
-You can <u><a href="https://mf-ahmed.github.io/mfa/files/AHMED_CV_English_latest.pdf">download the PDF here (French).</a></u>
+You can <u><a href="https://mf-ahmed.github.io/mfa/files/AHMED_CV_French_latest.pdf">download the PDF here (French).</a></u>
 <br/>
+
+
 
 
 <!--  <embed src="https://mf-ahmed.github.io/mfa/files/AHMED_CV_English_latest.pdf" type="application/pdf" width="800px" #height="600px" /> -->
@@ -30,11 +32,11 @@ Education
 Work experience
 ======
 
-* **Postdoctoral Researcher**:  March 2025 -- present, Laboratoire des Sciences du Numérique de Nantes (LS2N), École Centrale de Nantes, France 
+* **Postdoctoral Researcher**:  March 2025 -- present, Laboratoire des Sciences du Numérique de Nantes (LS2N), École Centrale de Nantes (ECN), Naents, France 
 
   **PerCoMa project** , developing collaborative drone systems for marine environment monitoring through **advanced AI**  and **multi-sensor data fusion**   
 
-* **Ph.D. Researcher (2021–2024)**: December 2021 -- December 2024, Laboratoire des Sciences du Numérique de Nantes (LS2N), École Centrale de Nantes, France   
+* **Ph.D. Researcher (2021–2024)**: December 2021 -- December 2024, LS2N, ECN, Nantes, France   
 
   **Multi-robot active SLAM** techniques, focusing on **entropy** reduction, **D-optimality** based unicertinaty quantification and **frontier reduction** mehods for exploration and autonomous mapping  
 
