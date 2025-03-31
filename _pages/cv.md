@@ -25,6 +25,13 @@ Education
 
 Work experience
 ======
+
+* **Postdoctoral Researcher (2025–present):**  
+  **PerCoMa project** , developing collaborative drone systems for marine environment monitoring through **advanced AI**  and **multi-sensor data fusion**   
+
+* **Ph.D. Researcher (2021–2024):**  
+  **Multi-robot active SLAM** techniques, focusing on **entropy** reduction, **D-optimality** based unicertinaty quantification and **frontier reduction** mehods for exploration and autonomous mapping  
+
 * **Principal Engineer (Plant automation group)**: December 2019 -- July 2021, Islamabad, Pakistan 
   * Public Sector Employee
   * **Team leader**. Supervised and guided a team of 2 automation engineers and 4 technicians. Mentored team members, providing training and support to enhance their technical and professional skills

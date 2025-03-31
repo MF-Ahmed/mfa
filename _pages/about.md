@@ -15,7 +15,7 @@ redirect_from:
 ## 🏆 **Professional Highlights**
 
 - **Postdoctoral Researcher (2025–present):**  
-  Contributed to the **PerCoMa project** , developing collaborative drone systems for marine environment monitoring through **advanced AI**  and **multi-sensor data fusion**   
+  **PerCoMa project** , developing collaborative drone systems for marine environment monitoring through **advanced AI**  and **multi-sensor data fusion**   
 
 - **Ph.D. Researcher (2021–2024):**  
   **Multi-robot active SLAM** techniques, focusing on **entropy** reduction, **D-optimality** based unicertinaty quantification and **frontier reduction** mehods for exploration and autonomous mapping  
@@ -25,7 +25,7 @@ redirect_from:
 
 - **Senior Engineer (2012–2019):**  
   Spearheaded the design of **embedded systems** for industrial process automation, including HVAC monitoring and fuel storage solutions
-  
+
 - **Assistant Engineer (2007–2012):**  
   Developed preventive **maintenance schedules**, ensured **safety compliance**, and improved plant process **efficiency**. Maintained detailed records and updated **technical documentation**
 
