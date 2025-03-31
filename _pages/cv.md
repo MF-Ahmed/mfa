@@ -30,10 +30,10 @@ Education
 Work experience
 ======
 
-* **Postdoctoral Researcher (2025–present):**  
+* **Postdoctoral Researcher**:  March 2025 -- present, Laboratoire des Sciences du Numérique de Nantes (LS2N), École Centrale de Nantes, France 
   **PerCoMa project** , developing collaborative drone systems for marine environment monitoring through **advanced AI**  and **multi-sensor data fusion**   
 
-* **Ph.D. Researcher (2021–2024):**  
+* **Ph.D. Researcher (2021–2024)**: December 2021 -- December 2024, Laboratoire des Sciences du Numérique de Nantes (LS2N), École Centrale de Nantes, France   
   **Multi-robot active SLAM** techniques, focusing on **entropy** reduction, **D-optimality** based unicertinaty quantification and **frontier reduction** mehods for exploration and autonomous mapping  
 
 * **Principal Engineer (Plant automation group)**: December 2019 -- July 2021, Islamabad, Pakistan 
