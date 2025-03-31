@@ -106,6 +106,6 @@ Courses and Workshops
 Laungages
 ======
 * English (professional)
-* French (A2) 
+* French (B1) 
 
 

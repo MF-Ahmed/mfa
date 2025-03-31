@@ -8,8 +8,9 @@ date: 2024-02-17
 venue: 'IEEE ICARCV 2024, Dubai'
 paperurl: 'https://mf-ahmed.github.io/mfa/files/2407.05453v2.pdf'
 slidesurl: 'https://mf-ahmed.github.io/mfa/files/ICARCV2024.pdf'
-citation: 'Muhammad Farhan Ahmed and Vincent Frémont and Isabelle Fantoni (2024). &quot;Active Collaborative Visual SLAM exploiting ORB Features.&quot; <i>ICARCV2024</i>. 1(3).'
+citation: 'M. F. Ahmed, V. Frémont and I. Fantoni (2024). &quot;Active Collaborative Visual SLAM exploiting ORB Features.&quot; <i>ICARCV2024</i>. pp. 966-971, doi: 10.1109/ICARCV63323.2024.10821699.'
 ---
+
 
 In autonomous robotics, a significant challenge involves devising robust solutions for Active Collaborative
  SLAM (AC-SLAM). This process requires multiple robots to cooperatively explore and map an unknown environment by
