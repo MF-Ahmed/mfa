@@ -11,8 +11,12 @@ redirect_from:
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
 
-You can <u><a href="https://mf-ahmed.github.io/mfa/files/AHMED_CV_English_latest.pdf">download the PDF here.</a></u>
+You can <u><a href="https://mf-ahmed.github.io/mfa/files/AHMED_CV_English_latest.pdf">download the PDF here (English).</a></u>
 <br/>
+
+You can <u><a href="https://mf-ahmed.github.io/mfa/files/AHMED_CV_English_latest.pdf">download the PDF here (French).</a></u>
+<br/>
+
 
 <!--  <embed src="https://mf-ahmed.github.io/mfa/files/AHMED_CV_English_latest.pdf" type="application/pdf" width="800px" #height="600px" /> -->
 
