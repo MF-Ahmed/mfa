@@ -26,7 +26,7 @@ You can <u><a href="https://mf-ahmed.github.io/mfa/files/AHMED_CV_French_latest.
 Education
 ======
 * Ph.D in Robotics, Ecole Centrale de Nantes, France, 2024 
-* M.S. in Advance Robotics, Ecole Centrale de Nantes, France & University of Genoa, Italy 2014-2015
+* M.S. in Advance Robotics, Ecole Centrale de Nantes, France & University of Genoa, Italy 2013-2015
 * B.E. Electronics Engineering, Mehran University, Pakistan, 2006
 
 Work experience
