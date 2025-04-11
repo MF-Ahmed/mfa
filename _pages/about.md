@@ -14,11 +14,14 @@ redirect_from:
 
 ## 🏆 **Professional Highlights**
 
+**Ecole Centarle de Nantes (ECN), LS2N – Nantes, France**
 - **Postdoctoral Researcher (2025–present):**  
   **PerCoMa project** , developing collaborative drone systems for marine environment monitoring through **advanced AI**  and **multi-sensor data fusion**   
 
 - **Ph.D. Researcher (2021–2024):**  
   **Multi-robot active SLAM** techniques, focusing on **entropy** reduction, **D-optimality** based unicertinaty quantification and **frontier reduction** mehods for exploration and autonomous mapping  
+
+**SmartPCBs – Islamabad, Pakistan**
 
 - **Principal Engineer (2019–2021):**  
   Managed automation projects from planning to execution. Streamlined workplace efficiency with **ISO-9001 QMS** and **5S methodologies** implementation
