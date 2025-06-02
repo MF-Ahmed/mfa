@@ -11,10 +11,10 @@ redirect_from:
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
 
-You can <u><a href="https://mf-ahmed.github.io/mfa/files/AHMED_CV_English_latest.pdf">download the PDF here (English).</a></u>
+You can <u><a href="https://mf-ahmed.github.io/mfa/files/AHMED_CV_English.pdf">download the PDF here (English).</a></u>
 <br/>
 
-You can <u><a href="https://mf-ahmed.github.io/mfa/files/AHMED_CV_French_latest.pdf">download the PDF here (French).</a></u>
+You can <u><a href="https://mf-ahmed.github.io/mfa/files/AHMED_CV_French.pdf">download the PDF here (French).</a></u>
 <br/>
 
 
