@@ -1,14 +1,14 @@
 ---
-title: "Entropy-Based Multirobot Active SLAM"
+title: "Efficient Multi-robot Active SLAM"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This article presents an efficient multi-robot active SLAM framework featuring a frontier-sharing method to maximize exploration in unknown environments. The approach promotes robot distribution while weighting goal frontiers based on pose graph SLAM uncertainty and path entropy. By using a limited set of frontier points and a utility function that accounts for SLAM and map uncertainties, the method ensures efficiency without high computational costs. Tested in simulations and real-world scenarios, it achieves 31% greater coverage than state-of-the-art methods, demonstrating its effectiveness for environment exploration.'
-date: 2024-12-30
+excerpt: 'Autonomous exploration in unknown environments remains a fundamental challenge in robotics, particularly for applications such as search and rescue, industrial inspection, and planetary exploration. Multi-robot active SLAM presents a promising solution by enabling collaborative mapping and exploration while actively reducing uncertainty. However, existing approaches often suffer from high computational costs and inefficient frontier management, making them computationally expensive for real-time applications. In this paper, we introduce an efficient multi-robot active SLAM framework that incorporates a frontier-sharing strategy to enhance robot distribution in unexplored environments. Our approach integrates a utility function that considers both pose graph uncertainty and path entropy, achieving an optimal balance between exploration coverage and computational efficiency. By filtering and prioritizing goal frontiers, our method significantly reduces computational overhead while preserving high mapping accuracy. The proposed framework has been implemented in ROS and validated through simulations and real-world experiments. Results demonstrate superior exploration performance and mapping quality compared to state-of-the-art approaches.'
+date: 2025-04-28
 venue: 'Journal of Intelligent & Robotic Systems (JIRS) '
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://mf-ahmed.github.io/mfa/files/2310.06160v1.pdf'
-citation: 'Muhammad Farhan Ahmed and Matteo Maragliano and Vincent Frémont and Carmine Tommaso Recchiuto. (2024). &quot;Entropy Based Multi-robot Active SLAM.&quot; <i>In Review JIRS</i>. 1(2).'
+citation: 'M. F. Ahmed, M. Maragliano, V. Frémont, and C. T. Recchiuto. (2024). &quot;Efficient Multi-robot Active SLAM.&quot; <i>JIRS</i>. vol. 111, 2(64).'
 ---
 
 In this article, we present an efficient multi-robot active SLAM framework that involves a frontier-sharing method
