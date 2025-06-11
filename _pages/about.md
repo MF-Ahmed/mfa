@@ -14,7 +14,7 @@ redirect_from:
 
 # Muhammad Farhan Ahmed  
 **Ph.D. in Robotics | Industrial Automation Expert**  
-  A robotics and automation expert with a passion for advancing intelligent systems. With a solid academic background and over a decade of hands-on experience, I specialize in robotics, SLAM, and low-level driver development to create smart, efficient, and adaptive machines. Explore my journey to see how I can contribute to cutting-edge technology and innovation in robotics and automation!  
+  A robotics and automation expert with a passion for advancing intelligent systems. With a solid academic background and over a decade of hands-on experience, I specialize in robotics, SLAM, autonomus navigation and planning, and low-level driver development to create smart, efficient, and adaptive machines. Explore my journey to see how I can contribute to cutting-edge technology and innovation in robotics and automation!  
 
 ---
 
