@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-<p><strong>👁️ You are visitor number:</strong>  
-<img src="https://counter1.optistats.ovh/private/freecounterstat.php?c=zqaka2gkqrylxk5l688mdmhp9tk4ygfn" 
-     alt="Visitor Counter" style="border:none; vertical-align:middle;" />
-</p>
+<div style="text-align: right; font-size: 0.9em;">
+  <span style="vertical-align: middle;">👁️ You are visitor number:</span>
+  <img src="https://counter1.optistats.ovh/private/freecounterstat.php?c=zqaka2gkqrylxk5l688mdmhp9tk4ygfn" 
+       alt="Visitor Counter" style="vertical-align: middle; height: 20px; border: none;" />
+</div>
 
 # Muhammad Farhan Ahmed  
 **Ph.D. in Robotics | Industrial Automation Expert**  
