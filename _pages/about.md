@@ -7,12 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-<!-- hitwebcounter Code START -->
-<p>You are visitor number:  
-<a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=20895194&style=0010&nbdigits=5&type=page&initCount=0" title="Counter Widget" alt="Visit counter For Websites" border="0" />
-</a></p>            
-
+<p><strong>👁️ You are visitor number:</strong>  
+<img src="https://hitwebcounter.com/counter/counter.php?page=20895194&style=0010&nbdigits=5&type=page&initCount=0" 
+     alt="Visitor Counter" style="border:none; vertical-align:middle;" />
+</p>
 
 # Muhammad Farhan Ahmed  
 **Ph.D. in Robotics | Industrial Automation Expert**  
