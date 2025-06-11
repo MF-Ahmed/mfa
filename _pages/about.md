@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-<p><strong>👁️ You are visitor number:</strong>  
-<img src="https://hitwebcounter.com/counter/counter.php?page=20895194&style=0010&nbdigits=5&type=page&initCount=0" 
-     alt="Visitor Counter" style="border:none; vertical-align:middle;" />
+<p><strong>👁️ You are visitor number:</strong>
+<img src="https://www.freecounterstat.com/count/xyz123abc456/style/0010/nbdigits/5" alt="Counter" />
 </p>
 
 # Muhammad Farhan Ahmed  
