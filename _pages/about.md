@@ -6,6 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=20895194&style=0010&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a>                     
+
+
 # Muhammad Farhan Ahmed  
 **Ph.D. in Robotics | Industrial Automation Expert**  
   A robotics and automation expert with a passion for advancing intelligent systems. With a solid academic background and over a decade of hands-on experience, I specialize in robotics, SLAM, and low-level driver development to create smart, efficient, and adaptive machines. Explore my journey to see how I can contribute to cutting-edge technology and innovation in robotics and automation!  
