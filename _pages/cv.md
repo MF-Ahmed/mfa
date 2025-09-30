@@ -11,11 +11,12 @@ redirect_from:
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
 
-You can <u><a href="https://mf-ahmed.github.io/mfa/files/AHMED_CV_English.pdf">download the PDF here (English).</a></u>
+ <u><a href="https://mf-ahmed.github.io/mfa/files/AHMED_CV_English.pdf">English datailed, </a></u><br/>, <u><a href="https://mf-ahmed.github.io/mfa/files/Onepage_CV_Ahmed_Anglais.pdf">onepage.</a></u><br/>
+
+ <u><a href="https://mf-ahmed.github.io/mfa/files/AHMED_CV_French.pdf">French deatiled, </a></u>
+<br/>, <u><a href="https://mf-ahmed.github.io/mfa/files/AHMED_CV_French.pdf">onepage.</a></u>
 <br/>
 
-You can <u><a href="https://mf-ahmed.github.io/mfa/files/AHMED_CV_French.pdf">download the PDF here (French).</a></u>
-<br/>
 
 
 
