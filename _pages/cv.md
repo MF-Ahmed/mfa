@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
 
-English <u><a href="https://mf-ahmed.github.io/mfa/files/AHMED_CV_English.pdf">Detailed CV</a></u> | <u><a href="https://mf-ahmed.github.io/mfa/files/Onepage_CV_Ahmed_Anglais.pdf">One-page CV</a></u>
+English <u><a href="https://mf-ahmed.github.io/mfa/files/AHMED_CV_English.pdf">(Detailed</a></u>, <u><a href="https://mf-ahmed.github.io/mfa/files/Onepage_CV_Ahmed_Anglais.pdf">One-page)</a></u>
 
 French <u><a href="https://mf-ahmed.github.io/mfa/files/AHMED_CV_French.pdf">deatiled, </a></u>
 <br/>, <u><a href="https://mf-ahmed.github.io/mfa/files/Onepage_CV_Ahmed_French.pdf">onepage.</a></u>
