@@ -11,10 +11,10 @@ redirect_from:
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
 
- <u><a href="https://mf-ahmed.github.io/mfa/files/AHMED_CV_English.pdf">English datailed, </a></u><br/>, <u><a href="https://mf-ahmed.github.io/mfa/files/Onepage_CV_Ahmed_Anglais.pdf">onepage.</a></u><br/>
+English <u><a href="https://mf-ahmed.github.io/mfa/files/AHMED_CV_English.pdf">(datailed, </a></u><br/>, <u><a href="https://mf-ahmed.github.io/mfa/files/Onepage_CV_Ahmed_Anglais.pdf">onepage)</a></u><br/>
 
- <u><a href="https://mf-ahmed.github.io/mfa/files/AHMED_CV_French.pdf">French deatiled, </a></u>
-<br/>, <u><a href="https://mf-ahmed.github.io/mfa/files/AHMED_CV_French.pdf">onepage.</a></u>
+French <u><a href="https://mf-ahmed.github.io/mfa/files/AHMED_CV_French.pdf">deatiled, </a></u>
+<br/>, <u><a href="https://mf-ahmed.github.io/mfa/files/Onepage_CV_Ahmed_French.pdf">onepage.</a></u>
 <br/>
 
 
