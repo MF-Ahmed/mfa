@@ -13,9 +13,7 @@ redirect_from:
 
 English <u><a href="https://mf-ahmed.github.io/mfa/files/AHMED_CV_English.pdf">(Detailed</a></u>, <u><a href="https://mf-ahmed.github.io/mfa/files/Onepage_CV_Ahmed_Anglais.pdf">One-page)</a></u>
 
-French <u><a href="https://mf-ahmed.github.io/mfa/files/AHMED_CV_French.pdf">deatiled, </a></u>
-<br/>, <u><a href="https://mf-ahmed.github.io/mfa/files/Onepage_CV_Ahmed_French.pdf">onepage.</a></u>
-<br/>
+French <u><a href="https://mf-ahmed.github.io/mfa/files/AHMED_CV_French.pdf">(Detailed</a></u>, <u><a href="https://mf-ahmed.github.io/mfa/files/Onepage_CV_Ahmed_French.pdf">One-page)</a></u>
 
 
 
