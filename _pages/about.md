@@ -23,10 +23,10 @@ redirect_from:
 
 **Ecole Centarle de Nantes (ECN), LS2N – Nantes, France**
 - **Postdoctoral Researcher (2025–present):**  
-  **PerCoMa project** , developing collaborative drone systems for marine environment monitoring through **advanced AI**  and **multi-sensor data fusion**   
+  **PerCoMa project** , which aims to develop collaborative aerial systems for comprehensive marine environment monitoring. The project focuses on designing multi-robot frameworks capable of cooperative perception, multi-sensor fusion, and distributed decision-making, enabling autonomous drones to detect, track, and share information about dynamic maritime obstacles in real time.  
 
-- **Ph.D. Researcher (2021–2024):**  
-  **Multi-robot active SLAM** techniques, focusing on **entropy** reduction, **D-optimality** based unicertinaty quantification and **frontier reduction** mehods for exploration and autonomous mapping  
+- **Ph.D. Candidate (2021–2024):**  
+  Development of multi-robot active SLAM frameworks, with a focus on information-theoretic exploration through entropy minimization, D-optimality–based uncertainty quantification, and frontier optimization strategies for autonomous environment mapping.
 
 **SmartPCBs – Islamabad, Pakistan**
 
