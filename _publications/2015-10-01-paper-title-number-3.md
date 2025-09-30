@@ -13,14 +13,8 @@ certificateimg: 'https://mf-ahmed.github.io/mfa/files/soli-best-paper.jpg'
 citation: 'M. F. Ahmed, V. Frémont and I. Fantoni. (2023). &quot;Active SLAM Utility Function Exploiting Path Entropy.&quot; <i>IEEE SOLI</i>. PP. 1-7., doi: 10.1109/SOLI60636.2023.10425063 (Best Student Paper Award)'
 ---
 
-
-
 In this article we present a utility function for Active SLAM (A-SLAM) which utilizes map entropy along
-with D-Optimality criterion metrices for weighting goal frontier candidates. We propose a utility function for frontier goal
-selection that exploits the occupancy grid map by utilizing the path entropy and favors unknown map locations for maximum
-area coverage while maintaining a low localization and mapping uncertainties. We quantify the efficiency of our method using
-various graph connectivity matrices and map efficiency indexes for an environment exploration task. Using simulation and
-experimental results against similar approaches we achieve an average of 32% more coverage using publicly available data sets.
+with D-Optimality criterion metrices for weighting goal frontier candidates. We propose a utility function for frontier goal selection that exploits the occupancy grid map by utilizing the path entropy and favors unknown map locations for maximum area coverage while maintaining a low localization and mapping uncertainties. We quantify the efficiency of our method using various graph connectivity matrices and map efficiency indexes for an environment exploration task. Using simulation and experimental results against similar approaches we achieve an average of 32% more coverage using publicly available data sets.
 
 🏆 **Best Student Paper Award**
 
