@@ -9,11 +9,19 @@ venue: 'IEEE SOLI 2023, Singapore'
 paperurl: 'https://mf-ahmed.github.io/mfa/files/2309.16490v2.pdf'
 slidesurl: 'https://mf-ahmed.github.io/mfa/files/IEEE_SOLI_2023.pdf'
 certificateurl: 'https://mf-ahmed.github.io/mfa/files/soli-best-paper.pdf'
+certificateimg: 'https://mf-ahmed.github.io/mfa/files/soli-best-paper.jpg'
 citation: 'M. F. Ahmed, V. Frémont and I. Fantoni. (2023). &quot;Active SLAM Utility Function Exploiting Path Entropy.&quot; <i>IEEE SOLI</i>. PP. 1-7., doi: 10.1109/SOLI60636.2023.10425063 (Best Student Paper Award)'
 ---
 
-🏆 **Best Student Paper Award:**  
-<u><a href="https://mf-ahmed.github.io/mfa/files/soli-best-paper.pdf">View Certificate</a></u>
+🏆 **Best Student Paper Award**
+
+<a href="https://mf-ahmed.github.io/mfa/files/soli-best-paper.pdf" target="_blank">
+  <img src="https://mf-ahmed.github.io/mfa/files/soli-best-paper.jpg" 
+       alt="Best Student Paper Certificate" 
+       style="max-width: 500px; border: 2px solid #ccc; border-radius: 10px; margin: 10px 0;">
+</a>  
+
+📄 <u><a href="https://mf-ahmed.github.io/mfa/files/soli-best-paper.pdf" target="_blank">Download Full Certificate (PDF)</a></u>
 
 In this article we present a utility function for Active SLAM (A-SLAM) which utilizes map entropy along
 with D-Optimality criterion metrices for weighting goal frontier candidates. We propose a utility function for frontier goal
